@@ -1,8 +1,8 @@
 ### Olá, meu nome é Camila Jardim! 👋
 
-- 🔭 Atualmente trabalho com Back-End Java 
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas - PUC/Minas
-- 🐞 Curiosidade: Já  fui Analista de Teste Automatizados com C#, Java, Ruby e Python (RobotFramework 🤖)
+- 🔭  QA Tester por 4 anos
+- 🌱 Graduação: Análise e Desenvolvimento de Sistemas - PUC/Minas
+- 🐞 Pós Graduação: Engenharia de Software - PUC/Minas (Em progresso)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camijardim&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
